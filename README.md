@@ -22,7 +22,13 @@ System Architecture
 </p>
 
 
+Examples:
+
+<img width="907" height="524" alt="Screenshot 2025-11-19 110202" src="https://github.com/user-attachments/assets/9d79c948-904d-4db4-8698-1d1085c2013a" />
 
 
+![DF](https://github.com/user-attachments/assets/d18a816a-f3b3-469a-bc75-6b81b1ea547d)
 
+
+![DF2](https://github.com/user-attachments/assets/a2cc3071-7b4b-49ee-9456-0f049ddf2ca5)
 
